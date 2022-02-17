@@ -1,0 +1,20 @@
+1. Write a python program to create a list with n number of items (where n should be atleast 6) with different types (integer, float, string) and perform the following functions:
+    a. Count the length of the list
+    b. Access the last element in the list using negative indexing.
+    c. Add one item to a list using the append()method.
+    d. Add several items using the extend()method.
+    e. Add a list as an item to the existing list (nested list).
+    f. Use the index operator to access the items at various location within the list.
+    [Access 3 different index from the list] [provide comments to mention the location]
+    g. Add an element to the list at the specified index using insert() method. [provide comments to specify the index]
+    h. Replace an existing element from the list at a specified location. [provide comments to specify the index]
+    i. Add duplicate elements to the list.
+    j. Remove the item at the given index from the list using pop() method.
+    k. Sort the elements of the given list in a specific ascending or descending order.
+    l. Reverse the elements of the list using reverse() method.
+2. Write a Python program to create a tuple with n different data types and implement the two methods: count() and index().
+3. Write a Python program to create two sets (S1 and S2) with n number of different elements [add elements to the sets S1 and S2, such that there are atleast 2 common elements between them] and perform the following functions:
+    a. Perform union and intersection
+    b. Add elements using add () and update () methods
+    c. Perform S1 – S2
+    d. Find the Symmetric Difference of S1 and S2
