@@ -1,0 +1,4 @@
+1. Write a program to implement Linear regression using Scikit learn. (Assignment-3.1)
+2. Write a python program to implement Logistic Regression for binary classification from scratch
+   using the following dataset.
+   Link: https://www.kaggle.com/ronitf/heart-disease-uci?select=heart.csv
