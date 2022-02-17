@@ -1,0 +1,33 @@
+1. Write a python program to print all the prime numbers between 1 to 1000 using loop.
+2. Use python programming to implement bubble sort. [define a function to perform the sorting and take the input from the user; for each passes display pass number and the respective sorted array]
+3. Write a python program to compute the sum of two matrices and display the result. [take the input from the user]
+4. Use python programming to implement the binary search by using the methods[take the input from the user]:
+    a. Recursive method
+    b. Iterative method
+5. Write a python program using NumPy:
+    a. Create two 1-D arrays of same size with n number of elements and display the index of the arrays where the value of elements in 1st array is more than and equal to its corresponding element in 2nd array.
+    b. Create a 1-D array and perform the following:
+      i. Replace all even numbers in the array with 0
+      ii. Extract the prime numbers from the array
+      iii. Convert the 1D array to a 2D array in 2 rows Input
+      iv. Display the array element indices such that array elements are sorted in ascending order [ without the changing the position of elements]
+      v. Convert a binary NumPy array (holding only 0s and 1s) to a Boolean NumPy array.
+      vi. Take an input of 10 elements and split the array into 3 arrays, where 1st two arrays should have 2 elements each and the rest of the elements in the last array. Display the arrays.
+
+6. There are 190 students in a class of Data Science Theory. The subject is taught every day ( Monday to Sunday) in a week for an hour. 
+   Create and display a series of data as a count of attendance of the total number of students attending the subject every day in a week. 
+   [Hint: Use pandas to create the dataset, create the dataset for a week i.e. for all 7 days in a week, for each respective day mention the number of attendees.]
+   Perform the following with the series dataset created.
+      a. Display the dataset
+      b. Display the sorted dataset with least number of attendees at first
+      c. Show the day with maximum number of attendees
+      d. Display the 1st two days of the week and the number of attendees
+      e. Plot the dataset for each day in the week.
+
+7. Consider the data set: https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression and perform the following:
+
+    a. Read the dataset
+    b. Display the information related to the dataset such as the number of rows and columns
+    c. Display the first 5 rows
+    d. Display the summary statistics for each numeric column
+    e. Display a random subset ( at least 5)
