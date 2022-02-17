@@ -1,0 +1,6 @@
+1. Write a python program to implement Logistic Regression for multiclass classification from scratch using the following dataset.
+   Link: https://www.kaggle.com/uciml/iris
+   
+2. Write a python program to implement Support Vector Machines (SVM) for Linear and Polynomial kernel from scratch using the following dataset.
+   Link: https://www.kaggle.com/uciml/iris 
+   [Iris dataset has three classes, remove any one of the classes and use the dataset]
