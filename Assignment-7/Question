@@ -1,0 +1,9 @@
+1. Implement a Simple Neural Network Model and predict if a person will buy insurance or not
+   for the given dataset. [Excel Uploaded in Google Classroom]
+   
+   Dataset: Insurance_Data
+   
+2. Use the given dataset and build a customer churn prediction model using artificial neural network.
+   [Concept used: ANN Classification, Use Multiple Hidden Layers, Confusion Matrix to check the accuracy rate of the model]
+    
+    Dataset: https://www.kaggle.com/mltuts/churn-modelling-data?select=Churn_Modelling.csv
