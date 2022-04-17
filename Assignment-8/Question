@@ -1,0 +1,4 @@
+Implement neural network from scratch using python for the following datasets and predict the values for the following datasets:
+
+1. Boston House prices dataset: https://www.kaggle.com/fedesoriano/the-boston-houseprice-data
+2. The seeds dataset: https://archive.ics.uci.edu/ml/datasets/seeds
