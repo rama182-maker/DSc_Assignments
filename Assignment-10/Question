@@ -1,0 +1,24 @@
+1. Implement Linear Discriminant Analysis (LDA) from scratch using Python
+
+  a. Dataset: https://archive.ics.uci.edu/ml/datasets/Iris
+  b. Group the training data into its respective classes . [Form a dictionary and save data
+  grouped by classes it belongs to]
+  c. Calculate mean vector of given training data of K-dimensions excluding the target class
+  and calculate class-wise mean vector for the given training data
+  d. Calculate scatter matrices needed to maximize the difference between means of given
+  classes and minimize the variance of given classes.
+  e. Calculate eigen values of M and get eigen vector pairs for first n (needed ) dimensions.
+  f. Selecting Linear Discriminants for the new features subspace
+    i.      Sorting eigen vectors by decreasing eigenvalues
+    ii.     Choosing k eigen vectors with the largest eigenvalues
+  g. Transforming the samples onto the new subspace.
+  
+2. Implement Logistic Regression by using LDA for the following dataset. [ sklearn Library
+   can be used for LDA and Logistic Regression Computation]
+   
+  a. Dataset: Uploaded in Google Classroom
+  b. Split the dataset
+  c. Feature Scaling
+  d. Apply LDA
+  e. Train the model with Logistic regression
+  f. Compute the Confusion matrix
